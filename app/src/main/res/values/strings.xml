@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="user_input_tip">Geben sie einen Text ein</string>
+</resources>
